@@ -6,6 +6,7 @@
 📞 010-2757-0866 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:test.zerojune@gmail.com)](mailto:test.zerojune@gmail.com)
+<span><a href="https://almond-petunia-e10.notion.site/565752dd8a8e44d98cc9e473c30bb4f9"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 <br/>
 
 <h3> 💻 Tech Stack</h3>
